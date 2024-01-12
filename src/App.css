@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(240, 255, 178);
+  padding: 10px;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+}
